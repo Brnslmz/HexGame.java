@@ -1,2 +1,2 @@
-# HexGame.java
-Hex Game with Java GUI
+# HexGame-Desktop
+Hex Game with Java Swing
